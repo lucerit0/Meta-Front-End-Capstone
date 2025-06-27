@@ -1,5 +1,3 @@
-# Hi! This is my Capstone project for the Meta Front-End developer course.
-=======
 # Meta Front-End Capstone
 Capstone project for the Meta Front-End Developer course.
 # Project name
